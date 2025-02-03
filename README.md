@@ -1,10 +1,5 @@
 # Autonomous Firefighting Robot Using Arduino Uno R3
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/your-repo.svg)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/your-repo.svg)
-![GitHub issues](https://img.shields.io/github/issues/yourusername/your-repo.svg)
-![GitHub license](https://img.shields.io/github/license/yourusername/your-repo.svg)
-
 ## Overview
 This project is based on the **LAFVIN Smart Robot Car 2WD Chassis Kit Upgraded V2.0** for Arduino. Modifications have been made to enhance its capabilities for autonomous firefighting applications.
 This project is an **Autonomous Firefighting Robot** built using an **Arduino Uno R3**. The robot is designed to detect and extinguish fires using an ultrasonic sensor, motor control, and a water pump system.
