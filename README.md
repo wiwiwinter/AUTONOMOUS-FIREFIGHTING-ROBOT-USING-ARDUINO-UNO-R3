@@ -33,6 +33,7 @@ make flash
 ├── ultrasonic.c    # Ultrasonic sensor functions
 ├── ultrasonic.h    # Ultrasonic header file
 ├── Makefile        # Build and upload automation
+```
 
 ## Contact
 For issues or suggestions, open an [issue](https://github.com/wiwiwinter/AUTONOMOUS-FIREFIGHTING-ROBOT-USING-ARDUINO-UNO-R3/issues) or reach out to [edgarjr.villas@g.msuiit.edu.ph](mailto:edgarjr.villas@g.msuiit.edu.ph).
