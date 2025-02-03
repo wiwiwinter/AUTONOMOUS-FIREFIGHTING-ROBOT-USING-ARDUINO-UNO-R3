@@ -39,5 +39,8 @@ make flash
 - **Mohammad Naim D. Mariga**
 - **Edgar Jr B. Villas**
 
+## License
+This project is open-source. Feel free to modify and improve!
+
 ## Contact
 For issues or suggestions, open an [issue](https://github.com/wiwiwinter/AUTONOMOUS-FIREFIGHTING-ROBOT-USING-ARDUINO-UNO-R3/issues) or reach out to [edgarjr.villas@g.msuiit.edu.ph](mailto:edgarjr.villas@g.msuiit.edu.ph).
