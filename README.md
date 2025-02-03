@@ -33,11 +33,6 @@ make flash
 ├── ultrasonic.c    # Ultrasonic sensor functions
 ├── ultrasonic.h    # Ultrasonic header file
 ├── Makefile        # Build and upload automation
-```
-
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For issues or suggestions, open an [issue](https://github.com/yourusername/your-repo/issues) or reach out to [your.email@example.com](mailto:your.email@example.com).
-
+For issues or suggestions, open an [issue](https://github.com/wiwiwinter/AUTONOMOUS-FIREFIGHTING-ROBOT-USING-ARDUINO-UNO-R3/issues) or reach out to [edgarjr.villas@g.msuiit.edu.ph](mailto:edgarjr.villas@g.msuiit.edu.ph).
