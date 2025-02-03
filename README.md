@@ -35,5 +35,9 @@ make flash
 ├── Makefile        # Build and upload automation
 ```
 
+## Contributors
+- **Mohammad Naim D. Mariga**
+- **Edgar Jr B. Villas**
+
 ## Contact
 For issues or suggestions, open an [issue](https://github.com/wiwiwinter/AUTONOMOUS-FIREFIGHTING-ROBOT-USING-ARDUINO-UNO-R3/issues) or reach out to [edgarjr.villas@g.msuiit.edu.ph](mailto:edgarjr.villas@g.msuiit.edu.ph).
